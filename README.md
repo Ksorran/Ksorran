@@ -2,18 +2,24 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHh0dGY4Y2VvNjFzdmk0YW9wY3d5bm9qcDVmOHZ1bHQxOWJnYnI3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="coding girl" width="280" height="170">
 </div>
 
-### Hi there 👋 here is some information about me 👇 <br>
+### Доброго времени суток! 👋 Пара слов обо мне 👇 <br>
 
-### 👁️‍🗨️ Full Name <br>
-**First Name:** Eugen <br>
-**Last Name:** Glushko 
+### 👁️‍🗨️ ФИО <br>
+**Глушко Евгений Игоревич**
 
-### 📩 How to reach me <br>
+### 📩 Обратная связь <br>
 **E-mail:** eugeniy.glu@gmail.com <br>
 **Telegram:** @Evgeniy_Glushko 
-### 🙋‍♀️ About Me <br>
-Hello, my name is Eugen and I am 31 years old. 
-### 🛠️ Languages and Tools <br>
+
+### 🖖 Обо мне <br>
+Мне 31 год и последние 6 лет я работаю главным налоговым инспектором(технологом) в Управлении ФНС по СПБ.  
+В 2022 году я решил кардинально сменить сферу своей деятельности и после продолжительного поиска остановился на beckend разработке с Python в качестве основы.
+Последние несколько лет прошли в непрерывных (ежедненых) занятиях, которые убедили меня в правильности выбранного пути.
+Мой процесс обучениея базируется на двух столпах:
+- курсы на Stepik;
+- pet-проекты.
+
+### 🛠️ Стек технологий <br>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60">
@@ -22,26 +28,25 @@ Hello, my name is Eugen and I am 31 years old.
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="SASS" alt="SASS" width="60" height="60">
 <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" title="WordPress" alt="Wordpress" width="60" height="60">
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="MaterializeCSS" alt="MaterializeCSS" width="60" height="60">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60">
 </div>
 
 ### 🖥️ Code Examples
-![Codewars](https://www.codewars.com/users/iooko/badges/large?theme=light) <br>
-<a href="https://www.codewars.com/users/iooko/completed_solutions">Codewars Solutions</a> 
+![Stepik](https://stepik.org/users/466961023/profile) <br>
+<a href="https://stepik.org/users/466961023/profile">Stepik profile</a> 
 
 ### ☑️ Work Experience 
-None :( <br>
-You can see all my projects on GitHub
+Релевантный коммерческий опыт отсутствует <br>
+Pet-проекты размещены на GitHub.
 
-### 🍎 Education 
+### 🏫 Образование 
 <ul>
-   <li>University: GUAP <br>
-   Specialty: Finencial
+   <li>Университет: ГУАП <br>
+   Специальность: финансы и кредит
    </li>
 </ul>
 
 ### &#128488; English
 Level: B2 (Upper-Intermediate) 
 
-### 📍Location
-Russia, St.Petersburg
+### 📍Локация
+Россия, Санкт-Петербург
