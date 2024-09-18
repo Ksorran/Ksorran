@@ -31,7 +31,8 @@
 </div>
 
 ### 🖥️ Code Examples
-![Stepik](https://stepik.org/users/466961023/profile) <br>
+![image](https://github.com/user-attachments/assets/1abf04ba-6cc0-4f7c-b76e-c87cb4c5d37f)
+ <br>
 <a href="https://stepik.org/users/466961023/profile">Stepik profile</a> 
 
 ### ☑️ Work Experience 
