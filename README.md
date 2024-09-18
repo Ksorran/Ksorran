@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJkaXZzbm1nMm5nY29ieGoydHk2cDRsYWUzdmY0cmR4NXpqcXF5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif" alt="coding girl" width="170" height="170">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHh0dGY4Y2VvNjFzdmk0YW9wY3d5bm9qcDVmOHZ1bHQxOWJnYnI3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="coding girl" width="170" height="170">
 </div>
 
 ### Hi there 👋 here is some information about me 👇 <br>
