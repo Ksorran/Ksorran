@@ -2,7 +2,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHh0dGY4Y2VvNjFzdmk0YW9wY3d5bm9qcDVmOHZ1bHQxOWJnYnI3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="coding girl" width="280" height="170">
 </div>
 
-### Доброго времени суток! 👋 Пара слов обо мне 👇 <br>
+### Здравствуйте! 👋 Пара слов обо мне 👇 <br>
 
 ### 👁️‍🗨️ ФИО <br>
 **Глушко Евгений Игоревич**
